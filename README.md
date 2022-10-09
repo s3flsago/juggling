@@ -2,6 +2,8 @@
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](http://opensource.org/licenses/MIT)
 
+View [slides](https://s3flsago.github.io/juggling/#slide=1)
+
 
 ### Credits
 
